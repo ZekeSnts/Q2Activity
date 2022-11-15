@@ -1,0 +1,34 @@
+h1{
+	font-family: Tahoma;
+	color:#938B83;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px red;
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+span{
+	font-variant: small-caps;
+	color:#938B83;
+	font-weight: bold;
+}
+#external{
+	text-shadow: 2px 2px 3px red;
+}
+body{
+	background-color:#212F3C ;
+}
+img{
+	border-stytle:sold;
+	border-color: #78281F;
+	float:right;
+}
+small{
+	color:white;
+}
+#logo1{
+	float:left;
+}
