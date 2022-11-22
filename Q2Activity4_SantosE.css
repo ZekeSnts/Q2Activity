@@ -1,0 +1,26 @@
+body{
+	border-style:solid;
+	border-color: ;
+	border-width: 10px;
+}
+.Div1{
+	background-color:#7b8560 ;
+	padding: 5px 5px 5px;
+	margin: auto;
+}
+.Div2{
+	background-color:#6a7865 ;
+	padding: 10px 10px 10px;
+}
+h1{
+	font-family: Constantia ;
+	color: #BBB295;
+}
+ul{
+	font-family: Constantia;
+	color: #BBB295;
+}
+img{
+	border-style: inset;
+	border-width: 3px;
+}
